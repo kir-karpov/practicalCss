@@ -1,0 +1,67 @@
+body {
+background-color: aqua;
+}
+h1 ,h2, h3, h4,h5,h6{
+  text-align: center;
+  font-size: 20px;
+
+}
+
+h1 {
+  color: purple;
+}
+
+h2 {
+  color: red;
+}
+h3 {
+  color: yellow;
+}
+.styled-text {
+  font-weight: bold;
+}
+h4 {
+  color: blue;
+}
+h5 {
+  color: pink;
+}
+h6 {
+  color: slateblue;
+}
+
+.text1 {
+  color: red;
+}
+.text2 {
+  color: pink;
+}
+.text3 {
+  color: yellow;
+}
+
+.text4 {
+  color: rebeccapurple;
+}
+
+.text5 {
+  color: teal;
+}
+.text6 {
+  color: violet;
+}
+.text10 {
+  color: peru;
+}
+.text15 {
+  color: green;
+}
+
+.text30 {
+  color: honeydew;
+}
+
+.border {
+border: 2px solid red;
+margin-bottom: 20px;
+}
